@@ -237,9 +237,6 @@ namespace MinecraftModNameExtractor
             }
         }
 
-
-
-
         static async Task<bool> CheckModFileForVersion(string modName, string minecraftVersion)
         {
             try
